@@ -1,4 +1,7 @@
 ## ECNU-MATH-HW
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 将华东师范大学的**高数纸质习题册**及**考试习题**转为结构化的 Markdown 文档，并提供笔者的解答，所有公式均采用标准 $LaTeX$ 渲染，代码部分支持语法高亮，方便搜索、阅读与二次编辑。
 
 ## 参与贡献
