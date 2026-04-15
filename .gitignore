@@ -1,1 +1,7 @@
-.DS_Store
+*.DS_Store
+*.exe
+*.o
+*.aux
+*.log
+*.out
+*.gz
